@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+[class*="col-"]{
+    min-height: 50px;
+    background-color: blue;
+    border:solid 1px white;
+}
+
+.uno{
+    color: white;
+    
+}
+
+.grren{
+    background-color: yellowgreen;
+    min-height: 35px;
+}
+
+.seconda{
+    margin-top: 30px;
+}
