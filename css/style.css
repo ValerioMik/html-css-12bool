@@ -12,12 +12,24 @@
 
 .uno{
     color: white;
-    
+    text-align: center;
+    margin-top: 20px;
+}
+
+.due{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
 }
 
 .grren{
     background-color: yellowgreen;
     min-height: 35px;
+    border:solid 1px blue;
+}
+
+.verde{
+    padding: 10px;
 }
 
 .seconda{
